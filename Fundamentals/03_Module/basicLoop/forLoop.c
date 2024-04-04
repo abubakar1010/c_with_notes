@@ -12,3 +12,7 @@ int main()
     printf("%d", i);
     return 0;
 }
+
+// Flow of for loop
+
+// initialization --> condition ---> print --> increment ---> condition ---> print ---> increment -->  condition ---> print ---> increment --> .....
